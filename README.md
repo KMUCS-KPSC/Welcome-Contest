@@ -24,3 +24,7 @@ KPSC 환영 대회
 |   | 수상자 | BOJ 핸들 |
 |---|--------|----------|
 | 1 | 장병준 | sunjbs98 |
+
+## 스코어 보드
+
+![](./Scoreboard/scoreboard.png)
