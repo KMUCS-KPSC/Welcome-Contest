@@ -147,5 +147,7 @@ KPSC 2020년도 2학기 동아리원 모집에 지원하신 분들을 대상으�
 ## 스코어 보드
 
 ![](./Scoreboard/KWC-2020-2-Scoreboard.png)
+
 - Open Contest
+
 ![](./Scoreboard/KWC-2020-2-Open-Contest-Scoreboard.png)
