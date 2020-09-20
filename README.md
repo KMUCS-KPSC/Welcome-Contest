@@ -33,7 +33,7 @@ KPSC가 기존 알고리즘 동아리를 물려받아 올해 새로 시작하면
 
 ## 문제 목록
 
-[에디토리얼](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Editorial/KPSC%202020-01%20%ED%99%98%EC%98%81%EB%8C%80%ED%9A%8C%20%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC.md)
+[에디토리얼](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Editorial/KPSC%202020-1%20%ED%99%98%EC%98%81%EB%8C%80%ED%9A%8C%20%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC.md)
 
 |    | 문제이름         | 제출 | 정답 | 정답비율 | 풀린시간 | First Solver | 출제자 |
 |----|------------------|------|------|----------|----------|--------------|--------|
@@ -94,7 +94,7 @@ KPSC 2020년도 2학기 동아리원 모집에 지원하신 분들을 대상으�
 
 ## 문제 목록
 
-[에디토리얼]()
+[에디토리얼](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Editorial/KPSC%202020-2%20%ED%99%98%EC%98%81%EB%8C%80%ED%9A%8C%20%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC.md)
 
 | 난이도순 | 문제이름         | 제출 | 정답 | 정답비율 | 풀린시간 | First Solver | 출제자 |
 |----|------------------|------|------|----------|----------|--------------|--------|
