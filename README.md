@@ -186,7 +186,17 @@ KPSC 2021년도 1학기 동아리원 모집에 지원하신 분들을 대상으�
 
 ## 문제 목록
 
-작성중
+[에디토리얼](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Editorial/KPSC%202021-1%20%ED%99%98%EC%98%81%EB%8C%80%ED%9A%8C%20%EC%97%90%EB%94%94%ED%86%A0%EB%A6%AC%EC%96%BC.md)
+
+|    | 문제이름         | 제출 | 정답 | 정답비율 | 풀린시간 | First Solver | 출제자 |
+|----|------------------|------|------|----------|----------|--------------|--------|
+| A  | [슬롯머신](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-1/A-%EC%8A%AC%EB%A1%AF%EB%A8%B8%EC%8B%A0.pdf)           | 34   | 21   | 61.7%    | 36분      | 최유찬       | 박정현 |
+| B  | [나로코 바이러스](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-1/B-%EB%82%98%EB%A1%9C%EC%BD%94%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.pdf)         | 9  | 7   | 77.8%    | 61분     | 윤웅배       | 박정현 |
+| C  | [카드게임 (SMALL)](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-1/C-%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84%20(SMALL).pdf)       | 24   | 14   | 58.3%    | 67분     | 윤웅배       | 박정현 |
+| D  | [카드게임 (LARGE)](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-1/D-%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84%20(LARGE).pdf)       | 15   | 1    | 6.7%    | 95분     | 윤웅배       | 박정현 |
+| E  | [ENLIST](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-1/E-ENLIST.pdf)       | 15   | 2   | 13.3%    | 135분     | 윤웅배       | 장병준 |
+| F  | [파스칼의 삼각형과 쿼리](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-1/F-%ED%8C%8C%EC%8A%A4%EC%B9%BC%EC%9D%98%20%EC%82%BC%EA%B0%81%ED%98%95%EA%B3%BC%20%EC%BF%BC%EB%A6%AC.pdf)   | 2   | 1    | 50.0%    | 364분     | 윤웅배       | 허준영 |
+| G  | [Taste Why Frame](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-1/G-Taste%20Why%20Frame.pdf) | 7    | 1    | 14.2%    | 486분    | 윤웅배       | 윤상건 |
 
 
 
