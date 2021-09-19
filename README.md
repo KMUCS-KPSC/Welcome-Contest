@@ -240,16 +240,16 @@ KPSC 2021년도 2학기 동아리원 모집에 지원하신 분들을 대상으�
 
 ## 문제 목록
 
-[에디토리얼]()
+[에디토리얼](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Editorial/KPSC%202021-2%20환영대회%20에디토리얼.md)
 
 |    | 문제이름         | 제출 | 정답 | 정답비율 | 풀린시간 | First Solver | 출제자 |
 |----|----------------|-----|-----|--------|-------|--------------|------|
-| A  | [OnlineJudge]() | 15 | 12   | 80% | 2분 | 손강민 | 박정현 |
-| B  | [E-doc SV Extension]() | 19  | 3   | 15.8%    | 113분     | 손강민       | 박정현 |
-| C  | [생일 선물]() | 19   | 3   | 15.8%    | 21분     | 이창조       | 박정현 |
-| D  | [톰 양궁]() | 23   | 2    | 8.7%    | 279분     | 손강민       | 박정현 |
-| E  | [졸나라]() | 0   | 0   | 0%    | -     | -       | 윤상건 |
-| F  | [다중우주]() | 0   | 0    | 0%    | -     | -       | 윤상건 |
+| A  | [OnlineJudge](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-2/A-Online%20Judge.pdf) | 15 | 12   | 80% | 2분 | 손강민 | 박정현 |
+| B  | [E-doc SV Extension](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-2/B-E-doc%20SV%20Extension.pdf) | 19  | 3   | 15.8%    | 113분     | 손강민       | 박정현 |
+| C  | [생일 선물](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-2/C-생일%20선물.pdf) | 19   | 3   | 15.8%    | 21분     | 이창조       | 박정현 |
+| D  | [톰 양궁](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-2/D-톰%20양궁.pdf) | 23   | 2    | 8.7%    | 279분     | 손강민       | 박정현 |
+| E  | [졸나라](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-2/E-졸나라.pdf) | 0   | 0   | 0%    | -     | -       | 윤상건 |
+| F  | [다중우주](https://github.com/KMUCS-KPSC/Welcome-Contest/blob/master/Problems/KWC%202021-2/F-다중우주.pdf) | 0   | 0    | 0%    | -     | -       | 윤상건 |
 
 
 
